@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 on local repo 
+=======
+file created on remote repo.
+>>>>>>> cbc450f4f3592b7d0472abf146436526ae870dd6
