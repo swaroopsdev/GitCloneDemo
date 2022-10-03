@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line 1 in remote repo.
+=======
+line 1 in local repo.
+>>>>>>> ecb4751 (local repo updated with file12)
